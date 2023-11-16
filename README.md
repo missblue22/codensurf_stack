@@ -1,6 +1,13 @@
 # Backend + PostgreSQL
 - https://codevoweb.com/build-a-crud-api-with-nodejs-and-sequelize/
 
+- //MissblueCodes_scenaristeur_on BASH because of yarn pb on windows- run npm install -g yarn and restarting your terminal, on first run
+- $ /C/Users/Mireille/CODEnSURF/codensurf_stack/"back copy/"
+- yarn i
+- docker-compose up -d
+- npm run dev ou yarn start 
+-> gives us api on http://localhost:8000/api/notes//
+
 
 ```
 cd back
